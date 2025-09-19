@@ -12,7 +12,7 @@
 
 ➡️ 모든 과제가 완료되었으며, 세 가지 모델을 모두 재학습하였고 생성 결과와 메트릭이 제시되었습니다.
 
-![결과 캡쳐](https://github.com/averksuu/AIFFEL_quest_rs_7/blob/master/GoingDeeper/Go09/pictures/%D0%A1%D0%BD%D0%98%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-19%20171325.png)
+![결과 캡쳐](https://github.com/averksuu/AIFFEL_quest_rs_7/blob/master/GoingDeeper/Go09/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-19%20171325.png)
 
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**  
     - 해당 코드 블럭을 왜 핵심적이라고 생각하는지 확인  
@@ -30,7 +30,7 @@
 
 ➡️ 모델 학습 과정에서 다양한 하이퍼파라미터 조합을 실험했으며, 텍스트 생성 파라미터도 변경하여 더 나은 결과를 도출했습니다.  
 
-![하이퍼파라미터 시도](https://github.com/averksuu/AIFFEL_quest_rs_7/blob/master/GoingDeeper/Go09/pictures/%D0%A1%D0%BD%D0%98%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-19%20171414.png)
+![하이퍼파라미터 시도](https://github.com/averksuu/AIFFEL_quest_rs_7/blob/master/GoingDeeper/Go09/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-19%20171414.png)
 
 - [x]  **4. 회고를 잘 작성했나요?**  
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해 배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인  
@@ -39,7 +39,7 @@
 
 ➡️ 회고 부분에는 모델의 한계와 개선 방향이 기술되어 있으며, 실행 흐름이 시각 자료와 함께 잘 정리되어 있습니다.
 
-![회고 캡쳐](https://github.com/averksuu/AIFFEL_quest_rs_7/blob/master/GoingDeeper/Go09/pictures/%D0%A1%D0%BD%D0%98%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-19%20171442.png)
+![회고 캡쳐](https://github.com/averksuu/AIFFEL_quest_rs_7/blob/master/GoingDeeper/Go09/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-19%20171442.png)
 
 - [x]  **5. 코드가 간결하고 효율적인가요?**  
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인  
